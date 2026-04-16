@@ -1,0 +1,11 @@
+agent_project/
+agent_memory.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.spec
+.DS_Store
+.env
