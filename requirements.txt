@@ -1,0 +1,6 @@
+requests
+gradio
+playwright
+duckduckgo-search
+gitpython
+pyinstaller
